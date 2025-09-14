@@ -34,6 +34,10 @@ Can log off your PC safely with a voice command.
 
 
 
+
+
+
+
 Technologies Used
 
 Python
