@@ -1,0 +1,8 @@
+SpeechRecognition==3.8.1
+pyttsx3==2.90
+wikipedia==1.4.0
+wolframalpha==5.0
+requests==2.31.0
+pypiwin32==305
+ecapture==0.1
+opencv-python==4.9.0.74
