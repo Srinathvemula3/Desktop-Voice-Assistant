@@ -5,6 +5,9 @@ Personal Assistant
 
 Python-based AI personal assistant that interacts with users via voice commands. It can perform a variety of tasks such as opening websites, searching Wikipedia, providing weather updates, taking photos, answering questions, and more.
 
+
+
+
 Features
 
 Voice-controlled assistant using Speech Recognition and Python.
@@ -27,45 +30,9 @@ Answers computational and geographical questions via WolframAlpha API.
 
 Can log off your PC safely with a voice command.
 
-Installation
-
-Clone the repository:
-
-git clone <your-repo-link>
-cd <repository-folder>
 
 
-Install dependencies:
 
-pip install -r requirements.txt
-
-
-Replace the API keys for:
-
-OpenWeatherMap (YOUR_OPENWEATHERMAP_API_KEY)
-
-WolframAlpha (YOUR_WOLFRAMALPHA_APP_ID)
-
-Usage
-
-Run the assistant:
-
-python assistant.py
-
-
-Speak your commands clearly when prompted.
-
-Use commands like:
-
-"Open YouTube"
-
-"Search Wikipedia for <topic>"
-
-"What’s the weather in <city>?"
-
-"Take a photo"
-
-"Log off"
 
 Technologies Used
 
@@ -82,3 +49,4 @@ WolframAlpha API
 OpenWeatherMap API
 
 Streamlined browser automation via webbrowser module
+
